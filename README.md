@@ -12,3 +12,4 @@ It contains the following samples:
 * React-Native: [Use Multiple Channel Events](react-native/UseMultipleChannels)
 * Cordova: [Cordova App With AngularJS](cordova-angularjs)
 * Cordova: [Use Native Modules](cordova/UseNativeModules)
+test
